@@ -98,6 +98,6 @@ Some certificates highlight awareness of security and risk in modern systems. Th
 
 [Udemy Certifications](https://github.com/amitrajitroy/Learnings_Certificates/blob/0bf713fd861c3ccb3de41ce640112d5219354a6e/Udemy.md)
 
-
+[LinkedIn Certifications](https://github.com/amitrajitroy/Learnings_Certificates/blob/560036442f9ba05d764f6eec964951c4afca1d19/LinkedIn.md)
 ​
 
