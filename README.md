@@ -8,7 +8,7 @@ Nearly 400 certificates currently tracked as PDFs in this repo, with regular add
 
 Coverage from foundational soft skills to advanced technical topics, including cloud architecture, big data, machine learning, and generative AI.​
 
-Certificates span multiple years, showing a consistent learning habit with bursts of completions in 2024–2025.
+Certificates span multiple years, showing a consistent learning habit with bursts of completions in 2023–2025.
 
 ## Thematic Learning Areas 
 
@@ -93,9 +93,10 @@ Some certificates highlight awareness of security and risk in modern systems. Th
 
 
 
-Certificates Table:
+## List of Certificates
+---
 
-Below is the list of certificates to illustrate the breadth of topics.
+[Udemy Certifications](https://github.com/amitrajitroy/Learnings_Certificates/blob/0bf713fd861c3ccb3de41ce640112d5219354a6e/Udemy.md)
 
 
 ​
