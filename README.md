@@ -110,3 +110,10 @@ Some certificates highlight awareness of security and risk in modern systems. Th
 
 
 ![Hackerrank badges](https://hackerrank-badges.vercel.app/amitrajit)
+
+
+
+###### Credly Badges:
+
+![Overview](https://credly-readme-stats.onrender.com/api/overview?username=amitrajit-roy&theme=dracula)
+
