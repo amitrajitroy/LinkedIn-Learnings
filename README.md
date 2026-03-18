@@ -96,9 +96,9 @@ Some certificates highlight awareness of security and risk in modern systems. Th
 ## List of Certificates
 ---
 
-[Udemy Certifications](https://github.com/amitrajitroy/Learnings_Certificates/blob/0bf713fd861c3ccb3de41ce640112d5219354a6e/Udemy.md)
+[Udemy Certifications](https://github.com/amitrajitroy/Learnings_Certificates/blob/main/Udemy.md)
 
-[LinkedIn Certifications](https://github.com/amitrajitroy/Learnings_Certificates/blob/560036442f9ba05d764f6eec964951c4afca1d19/LinkedIn.md)
+[LinkedIn Certifications](https://github.com/amitrajitroy/Certificates_Learnings/blob/main/LinkedIn.md)
 
 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/AmitrajitRoy/FDBBBF4A987AF022?sharingId=D983FB45D75A4F66)
 
