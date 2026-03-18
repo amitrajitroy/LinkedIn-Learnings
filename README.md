@@ -1,4 +1,4 @@
-# Learnings & Certificates Portfolio
+# Certificates & Learnings Portfolio
 
 This repository is a curated archive of my completed LinkedIn/Udemy Learning courses, captured as certificates of completion. It reflects a multi‑year, structured effort to deepen my skills across leadership, consulting, product, data, cloud, AI, and customer-centric practices.
 
