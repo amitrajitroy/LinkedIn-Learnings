@@ -101,3 +101,7 @@ Some certificates highlight awareness of security and risk in modern systems. Th
 [LinkedIn Certifications](https://github.com/amitrajitroy/Learnings_Certificates/blob/560036442f9ba05d764f6eec964951c4afca1d19/LinkedIn.md)
 ​
 
+HackerRank Badges:
+
+
+![Hackerrank badges](https://hackerrank-badges.vercel.app/amitrajit)
