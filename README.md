@@ -104,6 +104,8 @@ Some certificates highlight awareness of security and risk in modern systems. Th
 
 [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/AmitrajitRoy/C5E430732900B0B2?sharingId=D983FB45D75A4F66)
 
+[Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/AmitrajitRoy/9F2CF84030CBEAFA?sharingId=D983FB45D75A4F66)
+
 [Denodo Data Virtualisation](https://github.com/amitrajitroy/Certificates_Learnings/blob/main/Denodo%20Data%20Virtualization%20Essentials.pdf)​
 
 ###### HackerRank Badges:
